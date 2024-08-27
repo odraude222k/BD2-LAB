@@ -1,5 +1,5 @@
-from typing import Collection
-import pymongo # pip install pymongo
+import pymongo  # pip install pymongo
+
 from dataset.pokemon_dataset import dataset
 
 
